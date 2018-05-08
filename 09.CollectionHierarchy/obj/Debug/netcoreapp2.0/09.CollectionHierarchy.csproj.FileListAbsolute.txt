@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

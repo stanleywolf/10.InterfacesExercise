@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\bin\Debug\netcoreapp2.0\03.Ferrari.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\03.Ferrari\obj\Debug\netcoreapp2.0\03.Ferrari.pdb

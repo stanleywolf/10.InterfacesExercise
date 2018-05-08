@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\10.InterfacesExercise\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.pdb
